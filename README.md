@@ -19,4 +19,5 @@ The input required for the provided  Bankers  Algorithm (Detection) code is as f
 <ins>_**Output**_</ins>
 The output of the provided Bankers Algorithm (Detection) code and the final result:
 
-![Roundrobin_output](https://github.com/simoon06/Roundrobin/assets/139492391/338c14ad-16fc-424f-932e-efbd23f7d885)
+![image](https://github.com/simoon06/BankerDetection/assets/139492391/f8f31aab-11c8-4ab7-b48d-f6b046b2e19a)
+
