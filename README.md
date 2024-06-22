@@ -7,14 +7,11 @@ The provided code implements a Deadlock Detection Algorithm for a system with mu
 
 <ins>_**Input**_</ins>
 The input required for the provided  Bankers  Algorithm (Detection) code is as follows:
-	Number of Processes (n): Total number of processes in the system.
-	Number of Resource Types (r): Total number of different resource types.
-	Maximum Demand Matrix (arrmax) :
-	The maximum number of instances of each resource that each process may request.
-	Allocation Matrix (alloc) :
-	The number of instances of each resource currently allocated to each process.
-	Available Resources (avail) :
-	The number of instances of each resource currently available in the system.
+- **Number of Processes (n):** Total number of processes in the system.
+- **Number of Resource Types (r):**  Total number of different resource types.
+- **Maximum Demand Matrix (arrmax):** The maximum number of instances of each resource that each process may request.
+- **Allocation Matrix (alloc):** he number of instances of each resource currently allocated to each process.
+- **Available Resources (avail):** The number of instances of each resource currently available in the system.
 
 <ins>_**Output**_</ins>
 The output of the provided Bankers Algorithm (Detection) code and the final result:
